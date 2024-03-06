@@ -25,11 +25,11 @@ The day flew by and I enjoyed it, I learned a lot on this day and while it was c
 
 Wednesday, 6th March
 
-The third day started with a workshop where we had to build a roller coaster that had a loop, this roller coaster had to be built with straws, tape and paper, and a ball was rolled down with was meant to go around the loop. 
+The third day started with a workshop where we had to build a roller coaster that had a loop, this roller coaster had to be built with straws, tape and paper, and a ball was rolled down which was meant to go around the loop. 
 This workshop went on for the whole day in which we had a few workshops in between. 
 The workshops we had in between were about AI and college life. 
-We ended the day by testing each roller coaster and we had a vote on with one was the best. 
-Today was a very busy and heavy day but was the best so far.
+We ended the day by testing each roller coaster and we had a vote on which one was the best. 
+Today was a very busy and heavy day but it was the best so far.
 
 
 
