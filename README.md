@@ -34,6 +34,7 @@ Today was a very busy and heavy day but it was the best so far.
 #                             Day 4
 
 Thursday, 7th March
+
 On the Fourth day we started off with a town hall meeting where we in listened on what the company had planned for the next 2 weeks. 
 Then we had a workshop similar to the one yesterday where we were told about college life and how studying computer science in college is like. 
 Lastly we had a workshop where we had to fix a python coded game and make our own changes to it. 
