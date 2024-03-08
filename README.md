@@ -4,7 +4,7 @@
 
 #                              Day 1
 
-## Monday, 4th March
+### Monday, 4th March
 
 The first day started at 10AM and we were brought to our seats.
 After a while we were gathered up in a meeting room and were told about what the week was going to be about. 
@@ -15,7 +15,7 @@ Basically, on the first day we were getting used to these offices and had an ice
 
 #                             Day 2
 
-## Tuesday, 5th March
+### Tuesday, 5th March
 
 The second day started with a workshop about Git where I learned how to install git, use the terminal to create files and directories and how to get my Github account set-up. 
 After that we had a micro-bit workshop where we messed around with the micro-bits and makey - makeys.
@@ -23,7 +23,7 @@ The day flew by and I enjoyed it, I learned a lot on this day and while it was c
 
 #                             Day 3
 
-## Wednesday, 6th March
+### Wednesday, 6th March
 
 The third day started with a workshop where we had to build a roller coaster that had a loop, this roller coaster had to be built with straws, tape and paper, and a ball was rolled down which was meant to go around the loop. 
 This workshop went on for the whole day in which we had a few workshops in between. 
@@ -33,7 +33,7 @@ Today was a very busy and heavy day but it was the best so far.
 
 #                             Day 4
 
-## Thursday, 7th March 
+### Thursday, 7th March 
 
 On the Fourth day we started off with a town hall meeting where we in listened on what the company had planned for the next 2 weeks. 
 Then we had a workshop similar to the one yesterday where we were told about college life and how studying computer science in college is like. 
@@ -42,7 +42,7 @@ I think this day was the hardest so far but definitely enjoyed it.
 
 
 #                            Day 5
-## Friday, 8th March
+### Friday, 8th March
 
 The Fifth and last day started and finished with 1 workshop, build a robot car which will be in a race at the end. 
 In the morning we were given a car model and 2 micro bits, one for the car and one is a controller. 
