@@ -35,7 +35,7 @@ Today was a very busy and heavy day but it was the best so far.
 
 ### Thursday, 7th March 
 
-On the Fourth day we started off with a town hall meeting where we in listened on what the company had planned for the next 2 weeks. 
+On the fourth day we started off with a town hall meeting where we in listened on what the company had planned for the next 2 weeks. 
 Then we had a workshop similar to the one yesterday where we were told about college life and how studying computer science in college is like. 
 Lastly we had a workshop where we had to fix a python coded game and make our own changes to it. 
 I think this day was the hardest so far but definitely enjoyed it. 
@@ -44,7 +44,7 @@ I think this day was the hardest so far but definitely enjoyed it.
 #                            Day 5
 ### Friday, 8th March
 
-The Fifth and last day started and finished with 1 workshop, build a robot car which will be in a race at the end. 
+The fifth and last day started and finished with 1 workshop, build a robot car which will be in a race at the end. 
 In the morning we were given a car model and 2 micro bits, one for the car and one is a controller. 
 We had problems with our tech and our final robot didn’t turn out so well but in the end it was quite fun. We also got pizza at lunch which was great. 
 I enjoyed this day my only wish was if my car could drive properly but other than that it was great.
